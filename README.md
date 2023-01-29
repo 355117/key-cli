@@ -1,4 +1,6 @@
 # vue3使用的cli工具
+`npm i key-cli -g `
+
 `cli create <projectName> `创建项目
 
 `cli addPage <name> (-d src/pages默认)`添加页面模板
