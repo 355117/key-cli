@@ -1,6 +1,4 @@
 # vue3使用的cli工具
-`npm i key-cli -g `
-
 `cli create <projectName> `创建项目
 
 `cli addPage <name> (-d src/pages默认)`添加页面模板
@@ -16,4 +14,5 @@ Vuex，Pinia根据需求安装，开箱即用
 ***
 页面路由按照页面目录结构来放置，可以使用命令行来快速创建页面和路由  
 ***
+可集成Browserslistrc、Eslint、Prettier统一代码风格，提高团队开发效率
 
